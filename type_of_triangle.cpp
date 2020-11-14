@@ -9,9 +9,9 @@ int main ()
     {
         cout<<"its equilateral triangle";
     }
-    else if (a==b||b==c)
+    else if (a==b||b==c||a==c)
     {
-        cout<<"its isoless triangle";
+        cout<<"its isosless triangle";
         
     }
     else
